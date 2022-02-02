@@ -1,0 +1,104 @@
+h1 {
+  color: #0077b6;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  color: #0077b6;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  color: #0077b6;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: rgba(214, 214, 214, 0.918);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.card {
+  background: rgb(255, 255, 255);
+  padding: 30px;
+  text-align: center;
+  border-radius: 7px;
+  box-shadow: 2px 2px 15px 1px rgba(189, 183, 183, 0.295);
+  margin: 30px;
+}
+
+.container {
+  /* width: 700px; */
+  margin: 0 auto;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-blue {
+background-color: rgba(83, 108, 192, 0.897);
+color: white;
+padding: 15px 20px;
+border-radius: 4px;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+border: 0;
+box-shadow: 1px 1px 1px 1px rgba(58, 58, 58, 0.466);
+margin: auto;
+}
+
+.btn-blue:hover{
+  background-color: rgba(175, 185, 218, 0.863);
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px 0px 20px ;
+  list-style: none;
+  margin: auto;
+  font-size: 50px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline a:hover {
+  color: rgb(85, 85, 85);
+}
+
+.list-inline a{
+  color: black
+}
+
+@media (max-width: 5000px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 750px;
+  }
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 800px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
