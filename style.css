@@ -72,7 +72,7 @@ margin: auto;
 }
 
 .list-inline a{
-  color: black
+  color: rgb(28, 30, 105)
 }
 
 @media (max-width: 5000px) {
