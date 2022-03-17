@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img stroke ="light-gray" fill = "light-gray" src="images/github-svgrepo-com.svg" alt="GitHub" width="40" height="40"/> </a> <a href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img src="images/github_logo.png" alt="GitHub" width="40" height="40"/> </a> <a href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
