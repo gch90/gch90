@@ -1,15 +1,15 @@
 h1 {
-  color: #0077b6;
+  color: #062333;
   font-family: 'Roboto', sans-serif;
 }
 
 h2 {
-  color: #0077b6;
+  color: #062333;
   font-family: 'Roboto', sans-serif;
 }
 
 h3 {
-  color: #0077b6;
+  color: #062333;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -72,7 +72,7 @@ margin: auto;
 }
 
 .list-inline a{
-  color: rgb(28, 30, 105)
+  color: #062333
 }
 
 @media (max-width: 5000px) {
