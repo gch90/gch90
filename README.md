@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gch90&label=Profile%20views&color=0e75b6&style=flat" alt="gch90" /> </p>
 
+- 💻 Freelance Project  [Quoc-Dinh](https://quoc-dinh.netlify.app/fr)
+
 - 💻 Le Wagon Project 1 [Waitist](https://waitist.herokuapp.com/)
 
 - 💻 Le Wagon Project 2 [Pets-2-go](https://pets-2-go.herokuapp.com/)
