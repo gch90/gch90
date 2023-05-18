@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georges Chami</h1>
-<h3 align="center">a passionate junior full stack web developer</h3>
+<h3 align="center">a passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gch90&label=Profile%20views&color=0e75b6&style=flat" alt="gch90" /> </p>
 
