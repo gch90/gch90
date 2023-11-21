@@ -8,7 +8,7 @@
 - 💻 Practice Project   [Event Manager](https://troopl.com/georges-chami/event-manager)
 - 💻 Le Wagon Project 1 [Waitist](https://troopl.com/georges-chami/waitist)
 - 💻 Le Wagon Project 2 [Pets-2-go](https://troopl.com/georges-chami/pets-2-go)
-- ⚡ Portfolio Website (https://troopl.com/georges-chami/pets-2-go)
+- ⚡ Portfolio Website (https://troopl.com/georges-chami)
 
 
 - 📫 How to reach me **g.chami90@gmail.com**
