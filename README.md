@@ -17,11 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="text-decoration:none; display: inline-block;">
-  <a style="text-decoration:none; display:inline-block; box-sizing:content-box; margin:0; padding:0;" href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img style="text-decoration:none; display: inline-block;" src="images/github_logo.png" alt="GitHub" width="40" height="40"/> </a>
-  <a style="text-decoration:none; display: inline-block;" href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+<p align="left" style="text-decoration:none; display: inline-block;"><a style="text-decoration:none; display:inline-block; box-sizing:content-box; margin:0; padding:0;" href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img style="text-decoration:none; display: inline-block;" src="images/github_logo.png" alt="GitHub" width="40" height="40"/></a>
+<a style="text-decoration:none; display: inline-block;" href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a style="text-decoration:none; display: inline-block;" href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a><a style="text-decoration:none; display: inline-block;" href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="object-fit:cover"/></a>
