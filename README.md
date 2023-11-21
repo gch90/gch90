@@ -17,32 +17,39 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a style="text-decoration:none" href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img src="images/github_logo.png" alt="GitHub" width="40" height="40"/> </a> <a style="text-decoration:none" href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a style="text-decoration:none; display: inline-block;" href="https://github.com/gch90" target="_blank" rel="noreferrer"> <img src="images/github_logo.png" alt="GitHub" width="40" height="40"/> </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://linkedin.com/in/georges-chami" target="_blank" rel="noreferrer"> <img src="images/linkedin-svgrepo-com.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a style="text-decoration:none" style="text-decoration:none" href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  </a>
-  <a style="text-decoration:none" href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+  <a style="text-decoration:none; display: inline-block;" href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
-  <a style="text-decoration:none" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a style="text-decoration:none; display: inline-block;" href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="object-fit:cover"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://nextjs.org/" target="_blank" rel="noreferrer" style="fill: green">
+    <img src="images/nextjs-original.svg" alt="next" width="40" height="40" style="filter: invert(95%) sepia(0%) saturate(813%) hue-rotate(82deg) brightness(93%) contrast(92%)"/>
+  </a>
+   <a style="text-decoration:none; display: inline-block;" href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="images/react-2.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a style="text-decoration:none; display: inline-block;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   </p>
